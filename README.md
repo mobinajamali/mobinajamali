@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Mobina.
+🌱 I'm a recent Physics graduate with a passion for robotics.
+📫 How to reach me: mobina.jamali@ucalgary.ca 
 
+-->
 <!--
 **mobinajamali/mobinajamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
