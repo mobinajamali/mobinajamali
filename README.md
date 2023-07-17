@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mobinajamali&show_icons=true&locale=en&layout=compact" alt="mobinajamali" />
   <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mobinajamali&" alt="mobinajamali" />
 </div>
-
+-->
 
 
 
