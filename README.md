@@ -6,7 +6,8 @@
 
 
 ### Hi there 👋 I'm Mobina.
-- 🌱 I'm a robotics software developer
+I'm a Roboticist working on theory and algorithms at the intersection of ML and motion planning.
+- 🖥️ Website: [*mobinajamali.github.io*](https://mobinajamali.github.io/)
 - 📫 How to reach me: mobina.jamali@ucalgary.ca 
 <!--
 **mobinajamali/mobinajamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
