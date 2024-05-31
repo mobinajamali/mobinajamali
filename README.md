@@ -6,9 +6,9 @@
 
 
 ### Hi there 👋 I'm Mobina.
-I'm a Roboticist working on theory and algorithms at the intersection of ML and motion planning.
+I am working to improve robot motion and task planning, integrating algorithms with perception and learning. My goal is to transform robots into smart, adaptive assistants capable of helping human solve real-world challenges.
 - 🖥️ Website: [*mobinajamali.github.io*](https://mobinajamali.github.io/)
-- 📫 How to reach me: mobina.jamali@ucalgary.ca 
+- 📫 How to reach me: mobiina.jamali@gmail.com
 <!--
 **mobinajamali/mobinajamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
