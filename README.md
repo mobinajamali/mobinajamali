@@ -9,7 +9,8 @@
 - 💻 I'm working to improve robot motion and task planning, integrating algorithms with perception and learning. 
 - 🔭 My interests lie at the intersection of reinforcement learning, computer vision, and simulation, with a focus on applying these techniques to real-world robot control.
 - 📖 Website: [*mobinajamali.github.io*](https://mobinajamali.github.io/)
-- 📫 How to reach me: mobiina.jamali@gmail.com 
+- 📫 How to reach me: *mobiina.jamali@gmail.com*
+  
 Feel free to get in touch with me for any collaboration opportunities!
 <!--
 **mobinajamali/mobinajamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
