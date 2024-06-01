@@ -1,14 +1,16 @@
 # Mobina Jamali
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mobina-jamali/)
-[![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mobina.jamali@ucalgary.ca)
+[![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mobiina.jamali@gmail.com)
 [![Portfolio Website](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://mobinajamali.github.io/)
 
 
 ### Hi there 👋 I'm Mobina.
-I am working to improve robot motion and task planning, integrating algorithms with perception and learning. My goal is to transform robots into smart, adaptive assistants capable of helping human solve real-world challenges.
-- 🖥️ Website: [*mobinajamali.github.io*](https://mobinajamali.github.io/)
-- 📫 How to reach me: mobiina.jamali@gmail.com
+- 💻 I'm working to improve robot motion and task planning, integrating algorithms with perception and learning. 
+- 🔭 My interested lies at the intersection of reinforcement learning, computer vision, simulation, and applying them to real robot control.
+- 📖 Website: [*mobinajamali.github.io*](https://mobinajamali.github.io/)
+- 📫 How to reach me: mobiina.jamali@gmail.com 
+Feel free to get in touch with me for any collaboration opportunities!
 <!--
 **mobinajamali/mobinajamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
