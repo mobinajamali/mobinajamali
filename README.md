@@ -7,7 +7,7 @@
 
 ### Hi there 👋 I'm Mobina.
 - 💻 I'm working to improve robot motion and task planning, integrating algorithms with perception and learning. 
-- 🔭 My interested lies at the intersection of reinforcement learning, computer vision, simulation, and applying them to real robot control.
+- 🔭 My interests lie at the intersection of reinforcement learning, computer vision, and simulation, with a focus on applying these techniques to real-world robot control.
 - 📖 Website: [*mobinajamali.github.io*](https://mobinajamali.github.io/)
 - 📫 How to reach me: mobiina.jamali@gmail.com 
 Feel free to get in touch with me for any collaboration opportunities!
